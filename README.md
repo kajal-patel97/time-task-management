@@ -8,3 +8,6 @@ Use useful apps and tools to use your time wisely
 
 ## 3
 Prioritise your task using the Eisenhower Model, this where you sort your tasks into urgent and important.
+
+## 4
+Trello is an useful tool to use and can be used with other users when there is shared tasks 
