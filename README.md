@@ -2,3 +2,6 @@
 
 ## 1
 Do NOT waste peoples time
+
+## 2
+Use useful apps and tools to use your time wisely
